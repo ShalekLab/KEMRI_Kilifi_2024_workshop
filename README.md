@@ -1,21 +1,36 @@
 
-## Bioinformatics Training Material
+# Training Material
 
 Below, you will find the links to the lectures and Google Colab notebooks for the practical modules. 
 
-### Practical Modules with Google Colab Notebooks:
+## Day 1
 
-- [Notebook A - Processing raw scRNA-seq data](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_A_quality_control_and_normalization.ipynb):
-[**Lecture Module 1: Pre-processing**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_1_preprocessing.pptx).
+- Day 1 - morning: [**Lecture Module 1: Pre-processing**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_1_preprocessing.pptx).
 
-- [Notebook B - Quality Control, Exploratory Analysis, Data Normalization, Clustering, Differential expression in scRNA-seq experiments](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_B_batch_correction_and_integration.ipynb):
-[**Lecture Module 2: Quality control and normalization**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_2_quality_control_and_normalization.pptx) and [**Lecture Module 3: Cell annotation**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_3_cell_annotation.pptx).
+- Day 1 - afternoon: [Notebook A - Quality control and normalization](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_B_batch_correction_and_integration.ipynb):
+[**Lecture Module 2: Quality control and normalization**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_2_quality_control_and_normalization.pptx).
 
-- [Notebook B - Integrating single-cell transcriptomes from multiple samples](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_B_batch_correction_and_integration.ipynb):
+## Day 2
+
+- Day 2 - morning: [Notebook A - Quality control and normalization](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_B_batch_correction_and_integration.ipynb):
+[**Lecture Module 3: Cell annotation**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_3_cell_annotation.pptx).
+
+- Day 2 - afternoon: [Notebook B - Integrating single-cell transcriptomes from multiple samples](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_B_batch_correction_and_integration.ipynb):
 [**Lecture Module 4: Batch Correction and Data Integration**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_4_batch_correction.pptx).
 
-- [Notebook C - Immune receptor profiling](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_C_immune_receptors.ipynb): 
+## Day 3
+
+- Day 3 - morning: [Notebook C - Immune receptor profiling](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_C_immune_receptors.ipynb): 
 [**Lecture Module 5: Immune receptor profiling**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_5_BCR_background_and_10x_analysis.pptx).
+
+# Projects
+
+The skeleton notebooks for the projects can be found here:
+
+- [**Project 1 - Ebola**](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_1_Kotliar_2020_ebola.ipynb)
+- [**Project 2 - COVID-19 B cells**](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_2_Sokal_2021_COVID_B_cells.ipynb)
+- [**Project 3 - 10x B cells**](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_3_10x_B_cells.ipynb)
+- [**Project 4 - PBMC tumor cells**](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_4_10x_PBMC_tumor_cells.ipynb)
 
 
 ******
