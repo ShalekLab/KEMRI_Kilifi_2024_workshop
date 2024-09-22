@@ -20,20 +20,20 @@ Below, you will find the links to the lectures and Google Colab notebooks for th
 
 ## Day 3
 
-- Day 3 - morning: [Notebook C - Immune receptor profiling](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_C_immune_receptors.ipynb) & 
+- Day 3 - morning: [Notebook C - Immune receptor profiling](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_C_immune_receptors.ipynb) & 
 [**Lecture Module 5: Immune receptor profiling**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_5_BCR_background_and_10x_analysis.pptx).
 
 # Projects
 
 The skeleton notebooks for the projects can be found here:
 
-- [**Project 1 - Ebola**](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_1_Kotliar_2020_ebola.ipynb)
+- [**Project 1 - Ebola**](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_1_Kotliar_2020_ebola.ipynb)
 
-- [**Project 2 - COVID-19 B cells**](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_2_Sokal_2021_COVID_B_cells.ipynb)
+- [**Project 2 - COVID-19 B cells**](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_2_Sokal_2021_COVID_B_cells.ipynb)
 
-- [**Project 3 - 10x B cells**](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_3_10x_B_cells.ipynb)
+- [**Project 3 - 10x B cells**](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_3_10x_B_cells.ipynb)
 
-- [**Project 4 - PBMC tumor cells**](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_4_10x_PBMC_tumor_cells.ipynb)
+- [**Project 4 - PBMC tumor cells**](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Projects/KEMRI_workshop_Project_4_10x_PBMC_tumor_cells.ipynb)
 
 
 ******
