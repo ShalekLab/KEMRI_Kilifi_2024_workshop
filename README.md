@@ -18,7 +18,7 @@ _With the increasing complexity of single-cell data, the integration of multiple
 By employing computational methods to address these variations when comparing multiple samples, unwanted sources of variation can be eliminated, allowing researchers to focus on biologically meaningful signals. The process of removing batch effects involves making two important choices: selecting the appropriate method and parameterization, and determining the batch covariate. While the parameters are specific to the chosen method, the selection of the batch covariate depends on the goal of the integration task. This notebook will cover the key concepts and methods related to data integration and batch-effect correction, followed by hands-on activities that illustrate the integration of multiple datasets using methods from Seurat and Harmony._
 [**Lecture: Batch Correction and Data Integration**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_4_batch_correction.pptx).
 
-- [Notebook C - Immune receptor profiling and CITE-Seq in Single-Cell Analysis](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_C_immune_receptors.ipynb) : 
+- [Notebook C - Immune receptor profiling and CITE-Seq in Single-Cell Analysis](https://colab.research.google.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_C_immune_receptors.ipynb) : 
 _In this module, participants will explore the application of immune receptor profiling for understanding immune responses._[**Lecture: Immune receptor profiling**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_5_BCR_background_and_10x_analysis.pptx).
 
 
