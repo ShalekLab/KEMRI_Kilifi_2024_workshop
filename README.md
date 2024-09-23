@@ -7,7 +7,7 @@ Below, you will find the links to the lectures and Google Colab notebooks for th
 
 - Day 1 - morning: [**Lecture Module 1: Pre-processing**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_1_preprocessing.pptx).
 
-- Day 1 - afternoon: First half of [Notebook A - Quality control, normalization, and annotation](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_B_batch_correction_and_integration.ipynb) &
+- Day 1 - afternoon: First half of [Notebook A - Quality control, normalization, and annotation](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_A_quality_control_and_normalization.ipynb) &
 [**Lecture Module 2: Quality control and normalization**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_2_quality_control_and_normalization.pptx).
 
 ## Day 2
