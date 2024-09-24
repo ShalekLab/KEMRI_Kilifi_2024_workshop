@@ -12,7 +12,7 @@ Below, you will find the links to the lectures and Google Colab notebooks for th
 
 ## Day 2
 
-- Day 2 - morning: Second half of [Notebook A - Quality control, normalization, and annotation](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_B_batch_correction_and_integration.ipynb) &
+- Day 2 - morning: Second half of [Notebook A - Quality control, normalization, and annotation](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_A_quality_control_and_normalization.ipynb) &
 [**Lecture Module 3: Cell annotation**](https://github.com/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/lectures/Module_3_cell_annotation.pptx).
 
 - Day 2 - afternoon: [Notebook B - Integrating single-cell transcriptomes from multiple samples](https://colab.research.google.com/github/ShalekLab/KEMRI_Kilifi_2024_workshop/blob/main/Colab_notebooks/Modules/KEMRI_workshop_Notebook_B_batch_correction_and_integration.ipynb) &
